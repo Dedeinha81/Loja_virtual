@@ -72,7 +72,7 @@ uvicorn main:app --reload --host 127.0.0.1 --port 8080
 
 ---
 
-> ⚡ A API vai rodar em `http://127.0.0.1:8080`
+> ⚡ A API vai rodar em `http://127.0.0.1:8080/docs`
 
 4. Abra o **Swagger** para testar todas as rotas:
 
