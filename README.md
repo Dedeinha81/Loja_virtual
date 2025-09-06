@@ -68,7 +68,8 @@ loja_virtual/
 
 3. Rode a API:
 
-uvicorn main:app --reload --host 127.0.0.1 --port 8080
+uvicorn principal:app --reload --host 127.0.0.1 --port 8080
+
 
 ---
 
