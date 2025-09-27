@@ -28,17 +28,18 @@ Projeto desenvolvido como **portfólio**, mostrando minhas habilidades em back-e
 
 loja_virtual/
 │
-├─ main.py # Inicializa a API
 
-├─ database.py # Configuração do banco SQLite
+├─ main.py  Inicializa a API
 
-├─ models.py # Modelos do banco
+├─ database.py - Configuração do banco SQLite
 
-├─ schemas.py # Schemas para validação
+├─ models.py - Modelos do banco
 
-├─ utils.py # Funções auxiliares
+├─ schemas.py - Schemas para validação
 
-├─ routes/ # Rotas separadas por módulo
+├─ utils.py - Funções auxiliares
+
+├─ routes/ - Rotas separadas por módulo
 
 │ ├─ init.py
 
