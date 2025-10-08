@@ -26,8 +26,8 @@ Projeto desenvolvido como **portfólio**, mostrando minhas habilidades em back-e
 
 ## 📂 Estrutura do projeto
 
-loja_virtual/
-│
+loja_virtual
+
 
 ├─ main.py  Inicializa a API
 
@@ -53,11 +53,13 @@ loja_virtual/
 
 ---
 
-## 🏁 Como rodar o projeto (Windows)
+## 🏁 Como rodar 
 
-1. Abra o terminal e vá para a pasta do projeto:
+1. Clonar o repositório
 
- cd C:\Loja_virtual
+git clone [seu-link-do-repo]
+   
+cd Loja_virtual
 
 ---
 
